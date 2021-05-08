@@ -1,21 +1,20 @@
-function App() {
+import React from "react";
+import Home from "./Home";
+import GlobalStyles from "./GlobalStyles";
+import styled from "styled-components";
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Container className="App">
+      <GlobalStyles />
+      <Home />
+    </Container>
   );
-}
+};
+
+const Container = styled.div`
+  display: flex;
+  justify-content: center;
+`;
 
 export default App;
