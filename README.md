@@ -2,7 +2,7 @@
 
 Welcome to The Shoppies! This application was build for you to nominate your favorite movies for awards.
 
-## Live Demo:
+## Live Demo: https://the-shoppies-by-stefany.netlify.app/
 
 ---
 
