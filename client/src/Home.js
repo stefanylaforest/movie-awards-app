@@ -4,6 +4,7 @@ import Header from "./Header";
 import Search from "./Search";
 import Suggestion from "./Suggestion";
 import Nominations from "./Nominations";
+
 //my api key stored securely
 require("dotenv").config();
 const { REACT_APP_MOVIE_API } = process.env;
@@ -16,7 +17,7 @@ const Home = () => {
 
   //fetch and typeahead
   const getMovieRequest = async (searchValue) => {
-    const url = `http://www.omdbapi.com/?s=${searchValue}&apikey=${REACT_APP_MOVIE_API}`;
+    const url = `https://www.omdbapi.com/?s=${searchValue}&apikey=${REACT_APP_MOVIE_API}`;
     const response = await fetch(url);
     const responseJson = await response.json();
     if (responseJson.Search) {
