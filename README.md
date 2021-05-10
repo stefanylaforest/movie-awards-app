@@ -4,6 +4,8 @@ Welcome to The Shoppies! This application was build for you to nominate your fav
 
 ## Live Demo: https://the-shoppies-by-stefany.netlify.app/
 
+<img width="1273" alt="the-shoppies-user-interface" src="https://user-images.githubusercontent.com/66086002/117683974-788e1200-b1ac-11eb-8783-936a02bc5146.png">
+
 ---
 
 This web application was build with **React** & **Javascript** and styled with **Styled-Components** 💅
