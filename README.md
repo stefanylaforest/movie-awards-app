@@ -36,3 +36,7 @@ This web application was build with **React** & **Javascript** and styled with ð
 - Should the user leave the page, their nominations is stored in local storage incase they come back later.
 - If user deletes a movie from their nomination list, it will also delete from local storage.
 - Animation with key frames has been added on render of the search results.
+
+## The User Interface
+
+![shoppies](https://user-images.githubusercontent.com/66086002/117665882-35777300-b19b-11eb-8db7-8714384a0f1c.gif)
