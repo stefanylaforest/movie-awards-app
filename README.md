@@ -34,7 +34,7 @@ This web application was built with **React**, **Javascript** and styled with **
 - Users can add up to 5 movies for nominations.
 - The movie's button disables once it has been nominated.
 - Users can delete movies from their nomination list.
-- Once the user has added 5 movies, an orange banner appears to let them know they have nominated their 5 movies.
+- Once 5 movies has been added, an orange banner appears to let the user know know they have nominated their 5 movies.
 - Should the user leave the page, their nominations is stored in local storage incase they come back later.
 - If user deletes a movie from their nomination list, it will also delete from local storage.
 - Animation with key frames has been added on render of the search results.
