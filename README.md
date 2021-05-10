@@ -8,7 +8,7 @@ Welcome to The Shoppies! This application was build for you to nominate your fav
 
 ---
 
-This web application was build with **React** & **Javascript** and styled with **Styled-Components** 💅
+This web application was built with **React**, **Javascript** and styled with **Styled-Components** 💅
 
 ---
 
