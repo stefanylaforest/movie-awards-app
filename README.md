@@ -28,7 +28,7 @@ This web application was build with **React** & **Javascript** and styled with *
 
 ## What Has Been Implemented In This Project:
 
-- Users can search movie titles. While searching, the results renders on the webpage below.
+- Users can search movie titles. While searching, the results renders on the web page below.
 - Users can add up to 5 movies for nominations.
 - The movie's button disables once it has been nominated.
 - Users can delete movies from their nomination list.
