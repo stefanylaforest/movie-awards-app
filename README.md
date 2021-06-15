@@ -1,10 +1,10 @@
-# The Shoppies Movie Awards: Movie Awards for Entrepreneurs
+# The Movie Awards
 
-Welcome to The Shoppies! This application was build for you to nominate your favorite movies for awards.
+Welcome to The Movie Awards! This application was build for you to nominate your favorite movies for awards.
 
 ## Live Demo: https://the-shoppies-by-stefany.netlify.app/
 
-<img width="1273" alt="the-shoppies-user-interface" src="https://user-images.githubusercontent.com/66086002/117683974-788e1200-b1ac-11eb-8783-936a02bc5146.png">
+<img width="1273" alt="movie-awards-user-interface" src="https://user-images.githubusercontent.com/66086002/117683974-788e1200-b1ac-11eb-8783-936a02bc5146.png">
 
 ---
 
