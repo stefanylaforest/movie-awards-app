@@ -1,6 +1,6 @@
 # The Movie Awards
 
-Welcome to The Movie Awards! This application was build for you to nominate your favorite movies for awards.
+Welcome to The Movie Awards! This application was built for you to nominate your favorite movies for awards.
 
 ## Live Demo: https://the-shoppies-by-stefany.netlify.app/
 
